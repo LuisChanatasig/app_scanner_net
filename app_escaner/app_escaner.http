@@ -1,0 +1,6 @@
+@app_escaner_HostAddress = http://localhost:5051
+
+GET {{app_escaner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
